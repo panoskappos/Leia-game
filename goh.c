@@ -3,14 +3,6 @@
 #include <time.h>
 #include <math.h>
 
-/*Panagiotis Kappos
-AM:2022202000077
-dit20077@uop.gr
-
-Antonios Nikolaou
-AM:2022201900147
-dit19147@uop.gr*/
-
 #define TRUE 1
 #define FALSE 0
 
